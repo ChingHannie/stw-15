@@ -1,0 +1,85 @@
+body {
+	background-color: #FFFFFF;
+}
+
+
+#headertop {
+	text-align: center;
+	font-family: 'Nova Oval', cursive;
+	font-size: 50px;
+	margin: 15px 15px 5px 15px;
+}
+
+#headerbottom {
+	text-align: center;
+	font-family: 'Nova Oval', cursive;
+	padding: 10px 15px 15px 15px;
+}
+
+#header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#nav {
+    line-height: 30px;
+    background-color: #BFBFBF;
+    height: 500px;
+    width: 150px;
+    float: left;
+    padding: 15px; 
+    font-family: 'Nova Oval', cursive;
+}
+
+h2 {
+	text-align: left;
+}
+ p {
+ 	font-family: 'Merriweather', serif;
+ 	margin: 20px 10px 10px 10px;
+ 	border-left: 20px;
+
+ }
+ 
+ ol {
+ 	font-family: 'Merriweather', serif;
+ 	margin: 20px 10px 10px 10px;
+ }
+
+.container {
+    width: 80%;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.galleryItem {
+    color: #797478;
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: left;    
+     
+    width: 16%;
+    margin:  2% 2% 50px 2%; 
+}
+ 
+.galleryItem h3 {
+    text-transform: uppercase;
+}
+ 
+.galleryItem img {
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    clear: both;
+    text-align: right;
+    padding: 5px;
+    font-family: 'Nova Oval', cursive;
+    font-weight: 200;
+}
